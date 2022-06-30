@@ -7,3 +7,5 @@ Github Desktop to this file.
 This is pretty interesting, and I really
 liked the `Open in VSCode` option in GitHub
 Desktop.
+
+This is the [link](https://squidwarder.github.io/cse15l-lab-reports/test1.html) to my first test with another page.
